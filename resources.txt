@@ -1,0 +1,48 @@
+Applications and Computational Advances for
+Solving the QUBO Model -
+http://meta-analytics.net/wp-content/uploads/2020/12/Applications-and-Computational-Advances-for-Solving-the-QUBO-Model.pdf
+
+Classical vs Quantum for portfolio optimization -
+https://www.researchgate.net/publication/343786420_Portfolio_Optimization_of_60_Stocks_Using_Classical_and_Quantum_Algorithms#pf7
+
+Risk and return-
+https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/637f2121ff813c0385c42c8f7d376761_MIT15_401F08_lec12.pdf
+
+
+Portfolio theory-
+https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/dd628e151309a7f23962b1a31b9356e5_MIT15_401F08_lec13.pdf
+
+
+Mixed-Integer Quadratic Programming (with constraints) 
+https://in.mathworks.com/help/optim/ug/miqp-portfolio-problem-based.html
+
+Comparing Classical-Quantum Portfolio Optimization with Enhanced Constraints
+https://arxiv.org/pdf/2203.04912.pdf
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+Giacomo Nannicini. Performance of hybrid
+quantum-classical variational heuristics for
+combinatorial optimization. Physical Review
+E, 99:013304, Jan 2019. DOI: 10.1103/PhysRevE.99.013304.
+
+Jeffrey Cohen, Alex Khan, and Clark Alexander. Portfolio optimization of 40 stocks using the dwave quantum
+annealer, 2020
+
+Jeffrey Cohen, Alex Khan, and Clark Alexander. Portfolio optimization of 60 stocks using classical and quantum
+algorithms, 2020.
+
+Dylan Herman, Cody Googin, Xiaoyuan Liu, Alexey
+Galda, Ilya Safro, Yue Sun, Marco Pistoia, and Yuri Alexeev. A survey of quantum computing for finance, 2022
+
+Harry Markowitz. Portfolio selection. The Journal of Finance, 7(1):77–91, 1952.
+
+Salvatore Certo, Anh Dung Pham, and Daniel Beaulieu1. Comparing Classical-Quantum Portfolio Optimization with Enhanced Constraints
+Dated: March 10, 2022
+
+Panagiotis Kl Barkoutsos, Giacomo Nannicini, Anton Robert, Ivano Tavernelli, and Stefan Woerner- 
+Improving Variational Quantum Optimization using CVaR
+arXiv:1907.04769v3 [quant-ph] 13 Apr 2020
+
+
+----------------------------------------------------------------------------------------------------------------------------------
